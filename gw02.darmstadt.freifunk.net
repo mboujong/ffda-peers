@@ -1,3 +1,3 @@
 # gw02
-key "c17de76548842898d9417122f64f00da3617ec416d9f78d29c42280e8374870c";
-# remote "gw02.darmstadt.freifunk.net" port 10000;
+key "def654cd1a37ac86dd38f2a60e6cf40bdc23a4ac8232d4be4903c4078c18518e";
+remote "gw02.darmstadt.freifunk.net" port 6100;
