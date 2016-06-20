@@ -1,0 +1,3 @@
+# gw02
+key "b39fc4fecabc6d418baf05fb3f4b08c3a2f79eba5ccd94027a93726a037f99bb";
+remote "gw05.darmstadt.freifunk.net" port 6100;
