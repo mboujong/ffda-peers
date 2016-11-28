@@ -1,0 +1,3 @@
+# gw03
+key "ee5fae5eca2d1c5fe6508a15bee7ef7b3b7e53f703a2fa72e9782dd24b01fc29";
+remote "gw06.darmstadt.freifunk.net" port 6100;
